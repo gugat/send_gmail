@@ -1,3 +1,9 @@
 Change Gmail <username> (do not include @gmail.com)  and <password> in config/environments/development.rb
 
+
+
 Change <email_to>  lib/tasks/sendemailnow.rake
+
+
+
+rake sendemailnow
